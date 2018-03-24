@@ -5,14 +5,14 @@ using UnityEngine;
 public class Tile : MonoBehaviour
 {
     public bool walkable = true;
-    public bool currentTile = false;
+    public bool isHadTile = false;
     public bool target = false;
     public bool selectable = false;
 
     public List<Tile> adjacencyList = new List<Tile>();
 
     //Needed BFS (breadth first search)
-    public bool visited = false;
+    public bool isVisited = false;
     public Tile parent = null;
     public int distance = 0;
 
@@ -27,7 +27,7 @@ public class Tile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (currentTile)
+        if (isHadTile)
         {
             GetComponent<Renderer>().material.color = Color.magenta;
         }
@@ -50,11 +50,11 @@ public class Tile : MonoBehaviour
         adjacencyList.Clear();
 
         walkable = true;
-        currentTile = false;
+        isHadTile = false;
         target = false;
         selectable = false;
 
-        visited = false;
+        isVisited = false;
         parent = null;
         distance = 0;
     }
