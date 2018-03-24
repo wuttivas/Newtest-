@@ -272,11 +272,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &28231318
@@ -473,11 +473,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &53601768
@@ -575,11 +575,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &72283673
@@ -677,11 +677,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &95085948
@@ -836,11 +836,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &162334959
@@ -938,11 +938,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &163755776
@@ -1040,11 +1040,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &166309966
@@ -1277,11 +1277,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &240215484
@@ -1379,11 +1379,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &251838832
@@ -1509,11 +1509,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &267145183
@@ -1611,11 +1611,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &273402270
@@ -1713,11 +1713,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &289683499
@@ -1844,11 +1844,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &302056780
@@ -1999,11 +1999,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &317633454
@@ -2169,11 +2169,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &348330215
@@ -2271,11 +2271,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &381743271
@@ -2373,11 +2373,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &383498683
@@ -2504,11 +2504,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &423848238
@@ -2635,11 +2635,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &438580043
@@ -2737,11 +2737,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &455503935
@@ -2895,11 +2895,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &503917143
@@ -2997,11 +2997,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &504303343
@@ -3099,11 +3099,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &508974588
@@ -3201,11 +3201,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &516432769
@@ -3303,11 +3303,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &519519182
@@ -3405,11 +3405,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &550104786
@@ -3507,11 +3507,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &560292807
@@ -3609,11 +3609,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &564841304
@@ -3785,11 +3785,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &614795136
@@ -3916,11 +3916,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &628830863
@@ -4018,11 +4018,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &630703662
@@ -4149,11 +4149,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &641631210
@@ -4251,11 +4251,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &649072282
@@ -4382,11 +4382,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &683358715
@@ -4484,11 +4484,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &698696457
@@ -4586,11 +4586,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &731869970
@@ -4688,11 +4688,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &738741009
@@ -4790,11 +4790,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &762262737
@@ -4921,11 +4921,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &767714369
@@ -5081,11 +5081,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &780170648
@@ -5311,11 +5311,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &797577213
@@ -5530,11 +5530,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &830127255
@@ -5632,11 +5632,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &830244766
@@ -5734,11 +5734,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &832445521
@@ -5836,11 +5836,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &846835021
@@ -5938,11 +5938,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &848324634
@@ -6107,11 +6107,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &873209071
@@ -6209,11 +6209,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &877734172
@@ -6368,11 +6368,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &891193560
@@ -6470,11 +6470,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &896186885
@@ -6572,11 +6572,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &899194485
@@ -6674,11 +6674,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &909271956
@@ -6776,11 +6776,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &910627357
@@ -6878,11 +6878,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &919125686
@@ -6980,11 +6980,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &960166759
@@ -7082,11 +7082,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &963691132
@@ -7213,11 +7213,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &999360723
@@ -7315,11 +7315,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1014277084
@@ -7417,11 +7417,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1015509378
@@ -7519,11 +7519,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1016062247
@@ -7621,11 +7621,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1040141485
@@ -7822,11 +7822,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1055619522
@@ -7963,11 +7963,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1062843754
@@ -8065,11 +8065,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1070572285
@@ -8167,11 +8167,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1083179442
@@ -8269,11 +8269,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1083430535
@@ -8639,11 +8639,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1119403310
@@ -8866,11 +8866,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1134543823
@@ -8968,11 +8968,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1141173005
@@ -9173,11 +9173,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1163627979
@@ -9275,11 +9275,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1171756636
@@ -9377,11 +9377,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1210216913
@@ -9667,11 +9667,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1258221384
@@ -9769,11 +9769,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1261524498
@@ -9900,11 +9900,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1274221504
@@ -10002,11 +10002,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1285574312
@@ -10164,11 +10164,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1305818442
@@ -10266,11 +10266,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1308073561
@@ -10425,11 +10425,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1316195278
@@ -10527,11 +10527,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1335485643
@@ -10629,11 +10629,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1343750351
@@ -10731,11 +10731,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1347825719
@@ -10833,11 +10833,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1377336029
@@ -10935,11 +10935,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1386089660
@@ -11037,11 +11037,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1390989243
@@ -11139,11 +11139,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1414928081
@@ -11270,11 +11270,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1426898743
@@ -11471,11 +11471,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1434412833
@@ -11682,11 +11682,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1506744764
@@ -11749,6 +11749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1513608706}
   - component: {fileID: 1513608705}
+  - component: {fileID: 1513608707}
   m_Layer: 0
   m_Name: basicSWM
   m_TagString: Untagged
@@ -11792,6 +11793,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1513608707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1513608704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 358628c9e351d7248886106323b94379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentTile: {fileID: 0}
+  tiles: []
+  move: 4
+  jumpHeight: 2
+  moveSpeed: 2
+  halfHeight: 0
 --- !u!1 &1557176726
 GameObject:
   m_ObjectHideFlags: 0
@@ -11866,11 +11884,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1558305605
@@ -11958,7 +11976,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 900, y: -0.000015258789, z: 89.93099}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 1235, y: 0}
+  m_AnchoredPosition: {x: 734, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1562638088
@@ -12090,11 +12108,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1581680974
@@ -12192,11 +12210,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1582082396
@@ -12294,11 +12312,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1619757827
@@ -12396,11 +12414,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1633936285
@@ -12498,11 +12516,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1643588537
@@ -12600,11 +12618,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1650270662
@@ -13003,11 +13021,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1680174248
@@ -13232,11 +13250,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1735463217
@@ -13334,11 +13352,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1743824227
@@ -13535,11 +13553,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1776138172
@@ -13668,11 +13686,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1818349875
@@ -13798,11 +13816,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1832836927
@@ -13900,11 +13918,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1846126555
@@ -14002,11 +14020,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1851142024
@@ -14104,11 +14122,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1854626386
@@ -14206,11 +14224,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1870469854
@@ -14308,11 +14326,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1873700049
@@ -14410,11 +14428,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1907510290
@@ -14579,11 +14597,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1949267712
@@ -14681,11 +14699,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1952689234
@@ -14783,11 +14801,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1955722642
@@ -14885,11 +14903,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1967039498
@@ -14987,11 +15005,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1982282768
@@ -15117,11 +15135,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &1987733745
@@ -15318,11 +15336,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2029951308
@@ -15420,11 +15438,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2042151400
@@ -15522,11 +15540,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2042456138
@@ -15694,11 +15712,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2065938984
@@ -15796,11 +15814,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2068620990
@@ -15976,11 +15994,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2133982173
@@ -16078,11 +16096,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkable: 1
-  currentTile: 0
+  isHadTile: 0
   target: 0
   selectable: 0
   adjacencyList: []
-  visited: 0
+  isVisited: 0
   parent: {fileID: 0}
   distance: 0
 --- !u!23 &2141387107
